@@ -1,4 +1,4 @@
-# RealiTLScanner
+# RealiTLScanner GUI
 RealiTLScanner GUI (Windows only)
 
 # Screenshot:
@@ -7,9 +7,9 @@ RealiTLScanner GUI (Windows only)
 
 # Основные функции:
 
-- Сканирование IP адреса (для VLESS SNI)
-- Автоматическое скачивание Country (mmdb)
-- Автоматическое сохранение в файл result.csv в папке с программой
+- Сканирование IP адреса (для VLESS SNI).
+- Автоматическое скачивание Country (mmdb).
+- Автоматическое сохранение в файл result.csv в папке с программой.
 - Возможность изменить порт, потоки и таймаут.
 - Возможность включить подробности и IPV6.
 
