@@ -15,7 +15,7 @@ RealiTLScanner GUI (Windows only)
 
 # Благодарности / Thanks
 
-https://github.com/XTLS/RealiTLScanner (Автору сканера)
+https://github.com/XTLS/RealiTLScanner
 
 
 
